@@ -7,7 +7,7 @@ I'm a highly skilled and experienced Full Stack Developer with over 6 years of e
 - 🔭 I specialize in developing robust web applications, with a focus on ERP systems.
 - 🌱 I'm passionate about staying updated with emerging technologies and industry trends.
 - 💬 Ask me about web development, ERP systems, or anything tech-related!
-- 📫 You can reach me at [your.email@example.com](mailto:mdsohelranacse@gmail.com).
+- 📫 You can reach me at [mdsohelranacse@gmail.com](mailto:mdsohelranacse@gmail.com).
 
 ## ⚡ Technologies
 
