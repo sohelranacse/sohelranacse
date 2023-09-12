@@ -1,51 +1,44 @@
-# Hello, I'm Sohel Rana 👋
+# Hi there, I'm Sohel Rana 👋
 
-I'm a highly skilled and experienced Full Stack Developer with over 6 years of expertise in frontend and backend development. My passion lies in creating robust web applications, specializing in ERP systems. I have a deep understanding of various technologies and frameworks, including PHP, JavaScript, React JS, MySQL, and more.
+I'm a highly skilled and experienced Full Stack Developer with over 6 years of experience in frontend and backend development. My expertise spans a wide range of technologies and frameworks, including PHP, JavaScript, React JS, Next JS, Node JS, MongoDB, MySQL, and more.
 
-## About Me
+## 🚀 About Me
 
-- 💼 Full Stack Developer
-- 🌐 Web Application Enthusiast
-- 🧰 Tech Stack: PHP, JavaScript, React JS, MySQL, and more
-- 🎓 BSc in Computer Science & Engineering
-- 🏫 Diploma in Computer Technology
-- 🚀 Continuous Learner and Tech Enthusiast
+- 🔭 I specialize in developing robust web applications, with a focus on ERP systems.
+- 🌱 I'm passionate about staying updated with emerging technologies and industry trends.
+- 💬 Ask me about web development, ERP systems, or anything tech-related!
+- 📫 You can reach me at [your.email@example.com](mailto:mdsohelranacse@gmail.com).
 
-## Experience
+## ⚡ Technologies
 
-I have successfully developed and maintained web applications for various modules, including:
+Here are some of the technologies and tools I work with:
 
-- 📊 Human Resource Management
-- 📦 Inventory Management
-- 📜 Letter of Credit (LC)
-- 🏭 Production & Procurement
-- 📈 Sales & Distribution
-- 🧪 Research & Development (R&D)
-- 💼 IT Helpdesk
-- 🔧 Maintenance & Services
-
-## Skills
-
-- Frontend Development: HTML, CSS, JavaScript
-- Backend Development: PHP, CodeIgniter
-- Frameworks: React JS
-- Database: MySQL
+- Frontend: HTML, CSS, Bottstrap, Tailwind, JavaScript, React JS
+- Backend: PHP, Node , Python
+- Databases: MongoDB, MySQL
+- Frameworks: Next JS, CodeIgniter, Laravel
 - Version Control: Git
-- API Integration
-- Cross-Functional Collaboration
-- Quality Assurance and Testing
 
-## Education
+## 💼 Work Experience
 
-- 🎓 Bachelor of Science (BSc) in Computer Science & Engineering from City University, Dhaka
-- 🏫 Diploma in Computer Technology from Chittagong Polytechnic Institute
-- 📚 Comprehensive training program in Web Design and Development, covering PHP OOP, Bootstrap, JavaScript, CodeIgniter, jQuery, and React JS.
+- Developed and maintained various modules in ERP systems, including Management Information System, Video Streaming Platform, and Human Resource Management.
+- Collaborated with cross-functional teams to ensure seamless integration and optimal performance.
+- Conducted thorough testing and debugging to deliver high-quality applications.
 
-## Get in Touch
+## 🌐 Connect with Me
 
-- 📫 Email: [your.email@example.com](mailto:your.email@example.com)
-- 🔗 LinkedIn: [LinkedIn Profile](https://linkedin.com/in/yourlinkedinprofile)
-- 🌐 Portfolio: [Your Portfolio](https://www.yourportfolio.com)
+- [GitHub](https://github.com/sohelranacse)
+- [LinkedIn](https://linkedin.com/in/sohelranacse)
+- [Portfolio](https://sohelranacse.github.io)
+
+## 📝 Education
+
+- Bachelor of Science (BSc) in Computer Science & Engineering from City University, Dhaka
+- Diploma in Computer Technology from Chittagong Polytechnic Institute
+- Comprehensive training in Web Design and Development, covering PHP OOP, Bootstrap, JavaScript, CodeIgniter, jQuery, and React JS.
+
+Let's collaborate and create cutting-edge web solutions together! 🚀
+
 
 ## Let's Connect
 
