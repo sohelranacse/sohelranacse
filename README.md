@@ -1,59 +1,55 @@
-### Hi there 👋
+# Hello, I'm Sohel Rana 👋
 
-<!--
-**sohelranacse/sohelranacse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a highly skilled and experienced Full Stack Developer with over 6 years of expertise in frontend and backend development. My passion lies in creating robust web applications, specializing in ERP systems. I have a deep understanding of various technologies and frameworks, including PHP, JavaScript, React JS, MySQL, and more.
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-# Project Title
+- 💼 Full Stack Developer
+- 🌐 Web Application Enthusiast
+- 🧰 Tech Stack: PHP, JavaScript, React JS, MySQL, and more
+- 🎓 BSc in Computer Science & Engineering
+- 🏫 Diploma in Computer Technology
+- 🚀 Continuous Learner and Tech Enthusiast
 
-[Short description or tagline of your project]
+## Experience
 
-## Table of Contents
+I have successfully developed and maintained web applications for various modules, including:
 
-- [About](#about)
-- [Demo](#demo)
-- [Getting Started](#getting-started)
-  - [Prerequisites](#prerequisites)
-  - [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
+- 📊 Human Resource Management
+- 📦 Inventory Management
+- 📜 Letter of Credit (LC)
+- 🏭 Production & Procurement
+- 📈 Sales & Distribution
+- 🧪 Research & Development (R&D)
+- 💼 IT Helpdesk
+- 🔧 Maintenance & Services
 
-## About
+## Skills
 
-[Provide a brief introduction and overview of your project. Explain what it does and why it's useful.]
+- Frontend Development: HTML, CSS, JavaScript
+- Backend Development: PHP, CodeIgniter
+- Frameworks: React JS
+- Database: MySQL
+- Version Control: Git
+- API Integration
+- Cross-Functional Collaboration
+- Quality Assurance and Testing
 
-## Demo
+## Education
 
-[If applicable, provide a link to a live demo or a screenshot/gif of your project.]
+- 🎓 Bachelor of Science (BSc) in Computer Science & Engineering from City University, Dhaka
+- 🏫 Diploma in Computer Technology from Chittagong Polytechnic Institute
+- 📚 Comprehensive training program in Web Design and Development, covering PHP OOP, Bootstrap, JavaScript, CodeIgniter, jQuery, and React JS.
 
-## Getting Started
+## Get in Touch
 
-### Prerequisites
+- 📫 Email: [your.email@example.com](mailto:your.email@example.com)
+- 🔗 LinkedIn: [LinkedIn Profile](https://linkedin.com/in/yourlinkedinprofile)
+- 🌐 Portfolio: [Your Portfolio](https://www.yourportfolio.com)
 
-[List any prerequisites or dependencies that need to be installed before using your project. Include links or instructions on how to install them.]
+## Let's Connect
 
-### Installation
+Feel free to reach out if you're interested in collaborating on exciting projects or discussing the latest tech trends. I'm always open to new opportunities and connections.
 
-[Provide step-by-step installation instructions for your project.]
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sohelranacse&show_icons=true)](https://github.com/sohelranacse)
 
-```bash
-# Clone the repository
-git clone https://github.com/your-username/your-repo.git
-
-# Change directory
-cd your-repo
-
-# Install dependencies
-npm install
